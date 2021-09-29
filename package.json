@@ -1,0 +1,22 @@
+{
+  "name": "koaboot",
+  "version": "1.0.0",
+  "description": "### 安装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/nacker/koaboot.git"
+  },
+  "author": "nacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacker/koaboot/issues"
+  },
+  "homepage": "https://github.com/nacker/koaboot#readme",
+  "dependencies": {
+    "koa": "^2.13.3"
+  }
+}
